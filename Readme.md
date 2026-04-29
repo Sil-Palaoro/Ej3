@@ -2,4 +2,4 @@
 
 * Agregué el html
 
-* Me agregue al proyecto
+* Me uni al proyecto (Mica)
